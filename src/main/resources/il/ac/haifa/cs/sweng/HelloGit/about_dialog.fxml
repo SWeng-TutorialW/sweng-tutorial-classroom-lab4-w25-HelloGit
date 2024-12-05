@@ -21,7 +21,7 @@
 	</Label>
 	<Label alignment="BOTTOM_LEFT"
 		   maxWidth="2.7976931348623157E308"
-		   text="Elias"
+		   text="Elias, 212804694"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
@@ -30,7 +30,7 @@
 	</Label>
 	<Label alignment="BOTTOM_RIGHT"
 		   maxWidth="2.7976931348623157E308"
-		   text="Basel"
+		   text="Basel, 323937334"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
