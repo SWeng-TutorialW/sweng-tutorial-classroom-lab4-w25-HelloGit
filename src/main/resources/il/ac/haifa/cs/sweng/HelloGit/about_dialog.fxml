@@ -25,42 +25,4 @@
 		</font>
 	</Label>
 
-
-	<!-- Additional Labels -->
-	<Label alignment="CENTER" contentDisplay="CENTER" prefHeight="45.0" prefWidth="413.0" text="Hali Sghayer">
-		<font>
-			<Font size="30.0" />
-		</font>
-	</Label>
-
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Liron Arazi"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="31.0" />
-		</font>
-	</Label>
-
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Abdallah Khaldi 212389712 is also using Git!!!!!!!!!!!"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="40.0"/>
-		</font>
-	</Label>
-
-	<!-- New Label for Name -->
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Developed by: Nasem Sawaid"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="18.0" />
-		</font>
-	</Label>
 </VBox>
