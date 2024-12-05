@@ -14,6 +14,16 @@
 		   text="Hi there , We are using Git ! ! !"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
+
+		<font>
+			<Font size="31.0" />
+		</font>
+	</Label>
+	<Label alignment="BOTTOM_LEFT"
+		   maxWidth="2.7976931348623157E308"
+		   text="Elias"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
 		<font>
 			<Font size="31.0" />
 		</font>
@@ -27,6 +37,7 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
+
 
 </VBox>
 
