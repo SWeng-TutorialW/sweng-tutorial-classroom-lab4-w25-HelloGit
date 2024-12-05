@@ -35,33 +35,6 @@
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Liron Arazi"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="31.0" />
-		</font>
-	</Label>
-	<Label alignment="BOTTOM_RIGHT"
-		   maxWidth="2.7976931348623157E308"
-		   text="Basel Shaer"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="31.0" />
-		</font>
-	</Label>
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Ori Bekerman"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="31.0" />
-		</font>
-	</Label>
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
 		   text="Abdallah Khaldi 212389712"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
@@ -80,24 +53,4 @@
 	</Label>
 
 
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Abdallah Khaldi 212389712 is also using Git!!!!!!!!!!!"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="40.0"/>
-		</font>
-	</Label>
-
-	<!-- New Label for Name -->
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Developed by: Nasem Sawaid"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="18.0" />
-		</font>
-	</Label>
 </VBox>
