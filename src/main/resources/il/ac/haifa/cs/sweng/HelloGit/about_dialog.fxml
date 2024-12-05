@@ -8,7 +8,23 @@
 	<!-- TODO Add Nodes -->
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
 
+
 	<Label alignment="CENTER" maxWidth="2.7976931348623157E308" text="Hi there , I am Omar" textAlignment="CENTER" VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="31.0" />
+		</font>
+	</Label>
+   <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="45.0" prefWidth="413.0" text="Hali Sghayer">
+      <font>
+         <Font size="30.0" />
+      </font>
+   </Label>
+
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="This line was written by Sharon Melter"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
 		<font>
 			<Font size="31.0" />
 		</font>
