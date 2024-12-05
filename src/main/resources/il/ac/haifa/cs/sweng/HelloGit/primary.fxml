@@ -8,10 +8,9 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="il.ac.haifa.cs.sweng.HelloGit.PrimaryController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="il.ac.haifa.cs.sweng.HelloGit.PrimaryController">
    <top>
-      <MenuBar BorderPane.alignment="CENTER">
+      <MenuBar prefHeight="26.0" prefWidth="505.0" BorderPane.alignment="CENTER">
         <menus>
           <Menu mnemonicParsing="false" text="File">
             <items>
@@ -27,14 +26,15 @@
       </MenuBar>
    </top>
    <center>
-      <VBox prefHeight="77.0" prefWidth="309.0" BorderPane.alignment="CENTER">
+      <VBox prefHeight="130.0" prefWidth="506.0" BorderPane.alignment="CENTER">
          <children>
             <Label alignment="CENTER" maxWidth="1.7976931348623157E308" text="Welcome" textAlignment="CENTER" VBox.vgrow="ALWAYS">
                <font>
                   <Font size="31.0" />
                </font>
             </Label>
-            <Label alignment="CENTER" maxWidth="1.7976931348623157E308" prefHeight="17.0" prefWidth="111.0" text="Just add your stuff in the about dialog :)" VBox.vgrow="ALWAYS" />
+            <Label alignment="CENTER" nodeOrientation="LEFT_TO_RIGHT" prefHeight="18.0" prefWidth="550.0" text="Kanar Arrabi 214637969" />
+            <Label alignment="CENTER" prefHeight="18.0" prefWidth="565.0" text="Marian Dahmoush 32486492" />
          </children>
       </VBox>
    </center>
