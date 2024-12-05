@@ -14,6 +14,7 @@
             <Menu text="File">
                 <MenuItem text="Close" onAction="#closeApp"/>
             </Menu>
+
             <Menu text="Help">
                 <MenuItem text="About" onAction="#showAboutDialog"/>
             </Menu>
