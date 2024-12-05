@@ -24,7 +24,6 @@
 		   text="Elias Badaan "
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
-
 		<font>
 			<Font size="31.0" />
 		</font>
