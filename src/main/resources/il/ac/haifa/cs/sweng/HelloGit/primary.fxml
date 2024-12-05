@@ -35,7 +35,7 @@
                </font>
             </Label>
             <Label alignment="CENTER" maxWidth="1.7976931348623157E308" prefHeight="17.0" prefWidth="111.0" text="Just add your stuff in the about dialog :)" VBox.vgrow="ALWAYS" />
-            <TextField alignment="CENTER" text="Amr Safadi - 325157717 | Selan Abu Saleh - 212111439 | Eman Sarhan - 323047407" />
+            <TextField alignment="CENTER" text="Amr Safadi - 325157717" />
          </children>
       </VBox>
    </center>
