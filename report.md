@@ -1,6 +1,5 @@
-Name:ori Bekerman
-Id:322838129
-Name:Liron Arazi
-Id:205532971
+Abdallah Khaldi 212389712
+Tarek farhoud 213784440
 
-![alt text](Screenshot%202024-12-05%20195625.png)
+<img alt="second.JPG" src="../../Downloads/second.JPG"/>
+<img alt="first.JPG" src="../../Downloads/first.JPG"/>
