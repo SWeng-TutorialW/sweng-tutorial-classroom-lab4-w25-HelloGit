@@ -34,7 +34,7 @@
                   <Font size="31.0" />
                </font>
             </Label>
-            <Label alignment="CENTER" maxWidth="1.7976931348623157E308" prefHeight="17.0" prefWidth="111.0" text="Just add your stuff in the about dialog :)" VBox.vgrow="ALWAYS" />
+            <Label alignment="CENTER" maxWidth="1.7976931348623157E308" prefHeight="17.0" prefWidth="111.0" text="Hello by sharon and omar" VBox.vgrow="ALWAYS" />
          </children>
       </VBox>
    </center>
