@@ -1,5 +1,5 @@
 Abdallah Khaldi 212389712
 Tarek farhoud 213784440
 
-![alt text]![second.JPG](../../Downloads/second.JPG)
-![alt text]![first.JPG](../../Downloads/first.JPG)
+<img alt="second.JPG" src="../../Downloads/second.JPG"/>
+<img alt="first.JPG" src="../../Downloads/first.JPG"/>
