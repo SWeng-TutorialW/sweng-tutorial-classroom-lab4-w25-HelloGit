@@ -19,5 +19,12 @@
 		</font>
 	</Label>
 
+	<Label alignment="TOP_LEFT"
+		   maxWidth="2.7976931348623157E308"
+		   text="Fadi Hallaso">
+		<font>
+			<Font size="31.0" />
+		</font>
+	</Label>
 </VBox>
 
