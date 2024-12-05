@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.Label?>
 <?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
 <?import javafx.scene.text.Font?>
 
-<VBox xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+
+<VBox xmlns:fx="http://javafx.com/fxml/1">
 	<!-- TODO Add Nodes -->
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
 
-	<Label alignment="CENTER" maxWidth="2.7976931348623157E308" text="Sharbel Maroun / Rasha Odeh" textAlignment="CENTER" VBox.vgrow="ALWAYS">
-
-<VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/23.0.1">
-	<!-- Existing Label -->
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Hi there, We are using Git ! ! !"
+		   text="Hi there , We are using Git ! ! !"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
@@ -23,21 +20,14 @@
 	</Label>
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="TarekFarhoud_213784440"
+		   text="Ori  Bekerman"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
-			<Font size="50" />
+			<Font size="31.0" />
 		</font>
 	</Label>
 
-
-	<!-- Additional Labels -->
-	<Label alignment="CENTER" contentDisplay="CENTER" prefHeight="45.0" prefWidth="413.0" text="Hali Sghayer">
-		<font>
-			<Font size="30.0" />
-		</font>
-	</Label>
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
@@ -48,44 +38,6 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-	<Label alignment="BOTTOM_RIGHT"
-		   maxWidth="2.7976931348623157E308"
-		   text="Basel Shaer"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="31.0" />
-		</font>
-	</Label>
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Ori Bekerman"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="31.0" />
-		</font>
-	</Label>
 
-
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Abdallah Khaldi 212389712 is also using Git!!!!!!!!!!!"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="40.0"/>
-		</font>
-	</Label>
-
-	<!-- New Label for Name -->
-	<Label alignment="CENTER"
-		   maxWidth="2.7976931348623157E308"
-		   text="Developed by: Nasem Sawaid"
-		   textAlignment="CENTER"
-		   VBox.vgrow="ALWAYS">
-		<font>
-			<Font size="18.0" />
-		</font>
-	</Label>
 </VBox>
+
