@@ -8,6 +8,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
+
 <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="il.ac.haifa.cs.sweng.HelloGit.PrimaryController">
    <top>
       <MenuBar BorderPane.alignment="CENTER">
@@ -37,4 +38,5 @@
          </children>
       </VBox>
    </center>
+
 </BorderPane>
