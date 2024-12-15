@@ -5,39 +5,38 @@
 <?import javafx.scene.text.Font?>
 
 
-<VBox xmlns:fx="http://javafx.com/fxml/1">
-	<!-- TODO Add Nodes -->
-	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
-
+<VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/23.0.1">
+	<!-- Existing Label -->
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Hi there , We are using Git ! ! !"
+		   text="Hi there, We are using Git ! ! !"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
 			<Font size="31.0" />
 		</font>
 	</Label>
+	
+<Label>
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Ori  Bekerman"
+		   text="Abdallah Khaldi 212389712"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
-			<Font size="31.0" />
+			<Font size="42" />
 		</font>
 	</Label>
-
-
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Liron Arazi"
+		   text="Tarek farhoud 213784440"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
-			<Font size="31.0" />
+			<Font size="42" />
 		</font>
 	</Label>
+
 
 </VBox>
 
